@@ -1,0 +1,2 @@
+birthdays = 'sena-12/02/2012 \n rin-27/04/2011 \n aliya-23/05/2013 \n thurl-2/04/2012\n diana-30/01/2013'
+print('all my friends birthdays~!:', '\n', birthdays)
