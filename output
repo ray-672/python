@@ -1,0 +1,4 @@
+word = input('add any phrase or word:')
+print(word)
+
+print('now this is your phrase or word in reverse:...', word[ ::-1])
